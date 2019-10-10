@@ -1,0 +1,60 @@
+{
+    "todo": [
+        {
+            "kode_gudang" : "GD01",
+            "keterangan" : "Samsul"
+        },
+        {
+            "kode_gudang" : "GD02",
+            "keterangan" : "Arifin"
+        },
+        {
+            "kode_gudang" : "GD03",
+            "keterangan" : "Adi"
+        },        
+        {
+            "kode_gudang" : "GD04",
+            "keterangan" : "D"
+        },        
+        {
+            "kode_gudang" : "GD04",
+            "keterangan" : "D"
+        }
+        ,        
+        {
+            "kode_gudang" : "GD04",
+            "keterangan" : "D"
+        }
+        ,        
+        {
+            "kode_gudang" : "GD04",
+            "keterangan" : "D"
+        }
+        ,        
+        {
+            "kode_gudang" : "GD04",
+            "keterangan" : "D"
+        }
+        ,        
+        {
+            "kode_gudang" : "GD04",
+            "keterangan" : "D"
+        }
+        ,        
+        {
+            "kode_gudang" : "GD04",
+            "keterangan" : "D"
+        }
+        ,        
+        {
+            "kode_gudang" : "GD04",
+            "keterangan" : "D"
+        }
+        ,        
+        {
+            "kode_gudang" : "GD04",
+            "keterangan" : "D"
+        }
+
+    ]
+}
