@@ -1,6 +1,4 @@
-# POS
 
-> POINT OF SALE NAGATECH
 
 ## Build Setup
 
